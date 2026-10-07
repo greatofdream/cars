@@ -1,0 +1,12 @@
+# ---- Godot 4: 编辑器缓存 / 导入产物（会自动重建，不提交）----
+.godot/
+
+# ---- Manim 渲染输出与缓存（用 .py 可重新生成，不提交）----
+manim/media/
+__pycache__/
+*.pyc
+
+# ---- 操作系统 / 编辑器杂项 ----
+.DS_Store
+Thumbs.db
+*.tmp
